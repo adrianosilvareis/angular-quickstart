@@ -1,0 +1,21 @@
+{
+  "name": "adriano-quickstart",
+  "description": "",
+  "main": "",
+  "authors": [
+    "adrianosilvareis <adriano_silvareis@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/adrianosilvareis/angular-quickstart",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
